@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "description": "Self-made AI Agent with NLP, memory and reasoning",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "nguyenquanghuy",
+  "license": "MIT"
+}
